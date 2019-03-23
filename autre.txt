@@ -1,1 +1,3 @@
 Ceci est un ficher txt
+Que c'est magnifique d'apprendre a utiliser
+git et github =)
